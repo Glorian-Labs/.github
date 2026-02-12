@@ -107,6 +107,6 @@ You’re aligned with us.
 
 ## Connect
 
-Website: https://glorianlabs.com 
-Github: https://github.com/Glorian-Labs
-Contact: contact@glorianlabs.com
+- Website: https://glorianlabs.com
+- Github: https://github.com/Glorian-Labs
+- Contact: contact@glorianlabs.com
