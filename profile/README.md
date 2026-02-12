@@ -1,15 +1,13 @@
 # Glorian Labs
 
-![Glorian Labs Mascot](./assets/mascot.png)
-<!-- MASCOT_PLACEHOLDER: Cursor replace with official Glorian Labs mascot asset -->
-
+![Glorian Labs Social Card](./assets/social-card-1200x630.png)
 ## Agentic Intelligence for the Next Economy
 
 Glorian Labs is an independent infrastructure and research lab at the intersection of AI agents and decentralized economies.
 
 We build autonomous AI systems and open economic primitives for the next paradigm of coordination — where intelligent agents do not just compute, but negotiate, transact, verify, and create value on-chain.
 
-Our focus: Hedera, Aptos, and the emerging agent economy.
+Our focus: the emerging autonomous systems and decentralized agentic economy.
 
 ---
 
